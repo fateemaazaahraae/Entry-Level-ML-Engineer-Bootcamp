@@ -31,4 +31,4 @@ if __name__ == "__main__":
     if len(sys.argv) == 2:
         text_analyzer(sys.argv[1])
     else:
-        print("No argument provided OR YOU entered more than one argument")
+        print("No argument provided OR You entered more than one argument")

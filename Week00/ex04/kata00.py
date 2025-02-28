@@ -1,4 +1,4 @@
-kata = (19, 42, 21, 99, 00)
+kata = (19, 42, 21)
 
 output = "The " + str(len(kata)) + " numbers are: "
 
